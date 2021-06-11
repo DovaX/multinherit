@@ -81,7 +81,7 @@ d2=D(1,2,3,4)
 >>> 3
 >>> 4
 ```
-But it obviously initializes A.__init__ twice. In order to fix this, use multi_super function from multinherit package.
+But it obviously initializes ```A.__init__``` twice. In order to fix this, use multi_super function from multinherit package.
 
 ## Installation
 
